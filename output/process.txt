@@ -1,5 +1,5 @@
 USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
-root           1  0.0  0.1 167920 13184 ?        Ss   02:10   0:26 /lib/systemd/systemd auto noprompt splash --system --deserialize 55
-root           2  0.0  0.0      0     0 ?        S    02:10   0:00 [kthreadd]
-root           3  0.0  0.0      0     0 ?        I<   02:10   0:00 [rcu_gp]
-root           4  0.0  0.0      0     0 ?        I<   02:10   0:00 [rcu_par_gp]
+root           1  0.0  0.1 167920 13184 ?        Ss   Dec07   0:26 /lib/systemd/systemd auto noprompt splash --system --deserialize 55
+root           2  0.0  0.0      0     0 ?        S    Dec07   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   Dec07   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   Dec07   0:00 [rcu_par_gp]

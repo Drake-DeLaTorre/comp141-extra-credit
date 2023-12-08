@@ -1,7 +1,7 @@
 #!/bin/bash -i
 
 mkdir output
-mv text.txt output
+cp text.txt output
 cd output
 cat text.txt > read.txt
 pwd > pwd.txt
